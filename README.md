@@ -18,6 +18,6 @@
 꾸준한 기록과 성장을 좋아합니다.
 
 ## 📫 Contact
-📥 Email : s2440@e-mirim.hs.kr
-📌 Blog : [velog.io/@juram_117](https://velog.io/@juram_117)
-📂 Portfolio : 
+- 📥 **Email** : s2440@e-mirim.hs.kr
+- 📌 **Blog** : [velog.io/@juram_117](https://velog.io/@juram_117)
+- 📂 **Portfolio** : [my-portfolio-link](https://my-portfolio-link.com)
