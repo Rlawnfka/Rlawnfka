@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?&Height=700&type=waving&color=auto&text=HelloI'mJuram&fontSize=30)
+![header](https://capsule-render.vercel.app/api?&Height=700&type=waving&color=auto&text=Hello&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical))
 
 
 
