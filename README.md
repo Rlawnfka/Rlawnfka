@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wavubg&color=auto&height=120&section=header&text=Hello!&20I'm&20Juram&fontSize=70"/>
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 
