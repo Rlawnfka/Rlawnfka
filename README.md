@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?&Height=700&type=waving&color=15&text=안녕하세요!%20김주람입니다.&fontAlign=30&fontSize=30))
+![header](https://capsule-render.vercel.app/api?&Height=700&type=waving&color=21&text=안녕하세요!%20김주람입니다.&fontAlign=30&fontSize=30))
 
 
 
