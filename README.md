@@ -27,6 +27,6 @@
 ---
 
 ## 📫 Contact
-- 📥 **Email** : s2440@e-mirim.hs.kr
+- 📥 **Email** : gimjulam2@gmail.com
 - 📌 **Blog** : [velog.io/@juram_117](https://velog.io/@juram_117)
 - 📂 **Portfolio** : 준비 중입니다!
